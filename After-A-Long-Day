@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <title>After a Long Day</title>
+    </head>
+
+    <body>
+
+        <figure>
+            <img src="Story1.HEIC" alt="A tall, handsome man stands outside the cheap exterior of an apartment. He grasps the doorknob, eager to satiate his hunger after a long day." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story2.HEIC" alt="An arm reaches toward a refrigerator door, which is decorated with colorful magnets and a poster of the 2017 film 'Lady Bird' directed by Greta Gerwig." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story3.HEIC" alt="A tall handsome man stands with a hand on his chin, pondering the contents of his freezer. Waffle fries are in the freezer door." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story4.HEIC" alt="A tall handsome man holds a freezer-burnt corndog. He gazes upon the corndog, seemingly weighing the pros and cons of eating it." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story5.HEIC" alt="The freezer-burnt corndog rests on a bed of aluminum foil in an air-fryer. The tall, handsome man's reflection bounces off the air-fryer." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story6.HEIC" alt="The tall, handsome man sits atop his counter beside the air-fryer, eagerly waiting for the corndog to finish cooking at 375 degrees fahrenheit." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story7.HEIC" alt="The tall, handsome man sits at his dinner table, wielding a fork and knife. The corndog rests on a small porcelain plate, next to a bottle of French's Classic Yellow Mustard." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+          <figure>
+            <img src="Story8.HEIC" alt="The man sits back with his hands on his stomach, visibly satisfied. Half of the corndog, remains on the small porcelain plate." style="width:100%">
+            <figcaption></figcaption>
+          </figure>
+
+    </body>
+
+</html>
