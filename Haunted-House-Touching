@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+  <head>
+       <title>Haunted House Touching</title>
+
+    <style>
+  /* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
+h1{
+  Background-color: Purple;
+  color: Orange;
+}
+h2{
+  font-size: 32px;
+  color: Purple;
+  background-color: White;
+  Margin-left: 40%;
+  Margin-Right: 40%;
+}
+p{
+  color: Purple;
+  font-size: 20px;
+  background-color: orange;
+  text-align: center;
+  vertical-align: middle;
+  position: center;
+  Margin-left: 10%;
+  Margin-Right: 10%;
+  Height: 102px;
+}
+body {
+  Text-align: center;
+  background-color: Black;
+  align-items: center;
+}
+img{
+  border-radius: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  Height: 50%;
+  padding:5px;
+}
+Footer{
+  Background-color: Purple;
+  color: Orange;  
+}
+Text{
+  font-family: Arial, Helvetica, sans-serif;
+}
+      
+    </style>
+  </head>
+  
+  <body>
+  
+      <h1> Top 7 Characters in a Haunted House You Wish Would Touch You </h1>
+      <p>It’s common knowledge that in a haunted house guests are not allowed to touch haunted house workers and vice versa. 
+        This rule helps protect workers and guests alike but some rules should be broken especially when you run into these famous characters.
+      </p>
+
+    <section>
+      <h2>7. The Clown</h2>
+       <img src="Clown.JPG" alt="A picture of a somewhat scary Clown in a rainbow afro">
+      <p>
+        Starting off our list is the scary clown but he has a secret that got him on this list. He has a rigorous nighttime routine which includes taking off 
+        all his makeup and body paint and most importantly, moisturizing. This clown does not joke around when it comes to drinking water and applying lotion. 
+        He may have a dry sense of humor but there’s nothing else dry about this freak. 
+      </p>
+    </section>
+
+    <section>
+      <h2>6. Pinhead</h2>
+ <img src="Pinhead.JPG" alt="An image of a man covered in equidistant pins on his fans">
+<p>
+  This may come as a shock but Pinhead actually has a gentle side. Most people would think that a man covered in sharp nails and needles would be untouchable but he actually has a secret passion. 
+  Pinhead is certified in acupuncture which many people find extremely relaxing.
+  If you are okay with reused needles Pinhead is one of the greats of the acupuncture world and he loves practicing his art form. 
+</p>
+    </section>
+
+        <section>
+      <h2>5. Slime Guy</h2>
+ <img src="SlimeGuy.JPG" alt="An image of a middle-aged man with his face covered in green slime">
+<p>
+  We all know this guy from our favorite haunted attractions. He always appears right at the moment when you are sure there was no way they could fit a slime guy into this haunted hayride.
+  Surprise is his guarantee and you might be surprised by how pleasant his goo is to the touch. 
+  Dermatologists everywhere recommend just a small amount of slime guy’s slime every day for glowing radiant skin.
+</p>
+    </section>
+
+        <section>
+      <h2>4. Normal Nurse</h2>
+ <img src="Nurse.JPG" alt="a full body image of an undead nurse with blood all over her white uniform.">
+<p>
+Coming in at number four is an average-looking bloody nurse. A staple of the haunted house community but for some reason, guests wouldn’t mind getting vaccinated by her cold undead hands. 
+You wouldn’t want the mad doctor laying a finger on you but when it comes to the nurse the normal rules of a haunted house are out the window. According to some guests, “She purdy”. 
+</p>
+    </section>
+
+        <section>
+      <h2>3. Werewolf</h2>
+ <img src="Werewolf.JPG" alt="A grainy image of a werewolf covered in hair, baring its teeth.">
+<p>
+Turns out this ruthless canine is secretly a good boy. Many would be surprised to find out the werewolf is actually just barking at you and chasing you on all fours nipping 
+at your ankles because he wants some scratches behind the ears. This misunderstood mutt has extremely soft fur but never gets to show it off because everyone runs away. 
+</p>
+    </section>
+
+        <section>
+      <h2>2. Cordu-Roy</h2>
+ <img src="Cordu-Roy.JPG" alt="A model wearing a full body corduroy outfit.">
+<p>
+This bone-chilling skeleton of a man has a scary surprise that can’t be experienced with just sight. He is dressed head to toe in the most unpleasant material known to man 
+corduroy and he wants you to graze up on it for the full experience. He is breaking the norms of the industry with his artistry and micro-tearing up your fingertips with every touch.
+</p>
+    </section>
+
+        <section>
+      <h2>1. The Fidgetor</h2>
+ <img src="TheFidgetor.JPG" alt="An image of a rainbow children's pop-it fidgeting tool with cartoon eyes.">
+<p>
+You came to a haunted house to escape this atrocity but it followed you. It knows that the scariest thing in your everyday life is a child who is not being stimulated enough. 
+The worst part is that you know you want to touch it. You’ve had sick fantasies of giving this pop-it a try but you stop yourself because you're an adult. 
+But no one would know if you maybe just popped one bubble but once you pop you can’t stop.
+Soon enough it's 3 a.m., your family is worried, you don’t remember the last 5 hours you spent with the Fidgeter, and when you look around… it's gone.
+</p>
+    </section>
+
+
+
+<footer>All images were sourced from Canva Pro or free-use image websites</footer>
+
+  </body>
+</html>
