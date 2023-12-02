@@ -3,6 +3,14 @@
        <link rel="stylesheet" href="my-styles.css">
     <head>
         <title>7 St. Louis Locations That Made Me Panic or Cry</title>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="7-Locations.html">7 Locations that made me Cry or Panic</a></li>
+        <li><a href="Haunted-House-Touching.html">7 characters you wish could touch you at a haunted house</a></li>
+        <li><a href="After-A-Long-Day.html">A day in my life</a></li>
+      </ul>
+    </nav>
     </head>
 <a href="#main" class="skip">Skip to main content</a>
 	  <main id="main">
