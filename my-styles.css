@@ -1,6 +1,6 @@
-/* font-family: 'Cormorant Garamond', serif;
-font-family: 'Rubik', sans-serif; */
-
+Text{
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .skip {
   position: absolute;
@@ -65,7 +65,7 @@ nav li, nav li a {
   align-items: center;
 }
 .active {
-  background-color: #818DFE;
+  background-color: BurlyWood;
   color: #000;
   padding: 1rem;
 }
@@ -86,7 +86,7 @@ nav li, nav li a {
 }
 
 button {
-  background-color: #818DFE;
+  background-color: BurlyWood;
   border: none;
   color: #000;
   text-align: center;
@@ -98,6 +98,7 @@ button {
   padding: 0.8rem 1rem;
   border-radius: 5px;
 }
+
 @media only screen and (min-width: 768px) {
   /* For desktop: */
   .col-1 {width: 8.33%;}
