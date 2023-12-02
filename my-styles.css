@@ -31,15 +31,15 @@ font-family: 'Rubik', sans-serif; */
 }
 
 nav {
-  color: #818DFE;
-  background-color: #CED7FF;
-  padding: 0;
+  color: Chocolate;
+  background-color: BurlyWood;
+  padding: 3;
   display: block;
   margin: 0;
   border-bottom: 3px solid #FFF;
 }
 nav a {
-  color: #000000;
+  color: black;
 }
 a {
   font-weight: bold;
@@ -222,3 +222,14 @@ footer {
   font-weight: bold;
 }
 
+figcaption {
+  color: Black;
+  font-size: 20px;
+  background-color: DarkSalmon;
+  text-align: center;
+  vertical-align: middle;
+  position: center;
+  Margin-left: 10%;
+  Margin-Right: 10%;
+  Height: 102px;
+}
