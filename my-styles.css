@@ -126,8 +126,8 @@ img{
   padding:5px;
 }
 Footer{
-  Background-color: Purple;
-  color: Orange;  
+  Background-color: White;
+  color: DarkSalmon;  
 }
 Text{
   font-family: Arial, Helvetica, sans-serif;
@@ -135,7 +135,7 @@ Text{
 
 nav {
   color: #E3AD16;
-  background-color: #000000;
+  background-color: DarkSalmon;
   padding: 0;
   display: block;
   margin: 0;
