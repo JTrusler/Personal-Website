@@ -1,6 +1,16 @@
 /* font-family: 'Cormorant Garamond', serif;
 font-family: 'Rubik', sans-serif; */
 
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 .skip-link {
   position: absolute;
   width: 1px;
