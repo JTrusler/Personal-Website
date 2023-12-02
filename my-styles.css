@@ -62,8 +62,8 @@ section {
   .col-12 {width: 100%;}
 }
 h1{
-  Background-color: Purple;
-  color: Orange;
+  Background-color: DarkSalmon;
+  color: Black;
 }
 h2{
   font-size: 32px;
@@ -73,9 +73,9 @@ h2{
   Margin-Right: 40%;
 }
 p{
-  color: Purple;
+  color: Black;
   font-size: 20px;
-  background-color: orange;
+  background-color: DarkSalmon;
   text-align: center;
   vertical-align: middle;
   position: center;
@@ -85,7 +85,7 @@ p{
 }
 body {
   Text-align: center;
-  background-color: Black;
+  background-color: BlanchedAlmond;
   align-items: center;
 }
 img{
