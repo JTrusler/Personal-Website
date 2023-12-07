@@ -141,6 +141,14 @@ body {
   background-color: BlanchedAlmond;
   align-items: center;
 }
+
+body {
+  background-color: lightblue;
+  font-family: "Trirong", serif;
+  text-align: center;
+}
+
+
 img{
   border-radius: 20%;
   margin-left: auto;
