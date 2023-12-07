@@ -143,7 +143,7 @@ body {
 }
 
 body {
-  background-color: lightblue;
+  background-color: BlanchedAlmond;
   font-family: "Trirong", serif;
   text-align: center;
 }
@@ -153,8 +153,8 @@ img{
   border-radius: 20%;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  Height: 50%;
+  width: 450px !important;
+ length: 600px !important;
   padding:5px;
 }
 Footer{
