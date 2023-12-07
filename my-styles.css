@@ -47,7 +47,7 @@ a {
   text-decoration: none;
 }
 section {
-  background-color: #CED7FF;
+  background-color: Bisque;
   padding: 2rem;
 }
 
@@ -166,7 +166,7 @@ Text{
 }
 
 nav {
-  color: #E3AD16;
+  color: BurlyWood;
   background-color: DarkSalmon;
   padding: 0;
   display: block;
@@ -222,7 +222,7 @@ h2 {
 /*Footer section*/
 footer {
   background: #000;
-  color: #E3AD16;
+  color: BurlyWood;
   width: 100%;
   margin: 0;
   padding: 1rem;
